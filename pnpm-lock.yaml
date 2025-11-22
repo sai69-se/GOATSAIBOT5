@@ -68,6 +68,9 @@ importers:
       jsonlint-mod:
         specifier: ^1.7.6
         version: 1.7.6
+      mime-db:
+        specifier: ^1.52.0
+        version: 1.52.0
       moment-timezone:
         specifier: ^0.5.34
         version: 0.5.48
