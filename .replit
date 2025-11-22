@@ -26,4 +26,4 @@ outputType = "console"
 
 [[workflows.workflow.tasks]]
 task = "shell.exec"
-args = "pnpm install && pnpm start"
+args = "pnpm start"
